@@ -50,8 +50,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define TRUE  0
-#define FALSE 1
+#define TRUE  1
+#define FALSE 0
 
 typedef int bool;
 
